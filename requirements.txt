@@ -1,7 +1,10 @@
 voila
-numPy
+numpy
 pandas
 matplotlib
 geopandas
 folium
 ipywidgets
+jupyter_server
+nbconvert
+notebook
