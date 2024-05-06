@@ -8,3 +8,4 @@ ipywidgets
 jupyter_server
 nbconvert
 notebook
+openpyxl
