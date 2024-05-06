@@ -1,2 +1,2 @@
-web: voila --port=$PORT --no-browser interactive.ipynb
+web: voila --Volia.ip-0.0.0.0 --port=$PORT --no-browser
 
